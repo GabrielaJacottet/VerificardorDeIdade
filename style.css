@@ -1,0 +1,36 @@
+body{
+    font: normal 15pt Arial;
+    background-color: rgb(49, 155, 255);
+}
+
+section {
+    width: 50rem;
+    background-color: rgb(255, 255, 255);
+    border-radius: 1rem;
+    margin: auto;    
+    box-shadow: 0.3rem 0.3rem 1rem rgba(0, 0, 0, 0.363);     
+}
+
+div{
+    padding: 0.8rem;
+    text-align: left;   
+}
+
+
+ div img{   
+    width: 30rem;
+} 
+
+header{
+    color: #ffffff;
+    text-align: center;
+}
+
+footer{
+    color: #ffffff;
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+}
+
+
